@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Project</string>
+    <string name="total_price_format">Total Price: $%.2f</string>
+    <string name="price_format">Total Price: $%.2f</string>
+    <string name="cold">Cold</string>
+    <string name="caldoso">Caldoso</string>
+    <string name="salty">Salty</string>
+    <string name="cuisine">Cuisine</string>
+    <string name="search">Search</string>
+    <string name="total_format">Total: $%1$.2f</string>
+    <string name="new_search">New Search</string>
+</resources>
